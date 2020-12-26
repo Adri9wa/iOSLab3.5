@@ -1,0 +1,6 @@
+framework module Pods_lab2FilmInfo {
+  umbrella header "Pods-lab2FilmInfo-umbrella.h"
+
+  export *
+  module * { export * }
+}
